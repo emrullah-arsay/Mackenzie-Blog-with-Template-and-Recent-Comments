@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 450 450" preserveAspectRatio="xMidYMid meet" zoomAndPan="disable" >
+	<defs id="svgEditorDefs">
+		<pattern height="10" id="mac-maroon-usr" patternUnits="userSpaceOnUse" viewBox="-20 -20 168 168" width="10" x="0" y="0"><path d="M120 72h-112c-4.419 0-8 3.581-8 8s3.581 8 8 8h112c4.419 0 8-3.581 8-8s-3.581-8-8-8z" style="fill:maroon;stroke:none;"/>
+		<path d="M17.778 120h92.445c5.4 0 9.778-4.378 9.778-9.778v-14.222h-112v14.222c0 5.4 4.378 9.778 9.778 9.778z" style="fill:darkgoldenrod;stroke:none;"/>
+		<path d="M64 16c-30.928 0-56 21.491-56 48h112c0-26.509-25.072-48-56-48zM36 56c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4zM52 40c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4zM76 40c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4zM92 56c-2.209 0-4-1.791-4-4s1.791-4 4-4 4 1.791 4 4-1.791 4-4 4z" style="fill:darkgoldenrod;stroke:none;"/>
+		</pattern>
+	</defs>
+<rect id="svgEditorBackground" x="0" y="0" width="450" height="450" style="stroke: none; fill: none;"/>
+<text fill="black" x="68" y="28" id="e1_texte" style="font-family: Arial; font-size: 20px;">
+</text>
+<polyline id="e6_polyline" style="fill: none; stroke-width: 90px; vector-effect: non-scaling-stroke; stroke-linejoin: round;" points="55.7983 432.24 56.36 52.7005 396.532 399.536 396.388 16.7137" stroke="#0084FF"/>
+</svg>
